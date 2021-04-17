@@ -8,6 +8,6 @@ Arduino IDE
 Jumper Wires
 <table>
   <tr>
-    <td><h2>STM32</h2><td>
-    <td><h2>USB to TTL</h2></td>
+    <td>STM32<td>
+    <td>USB to TTL</td>
   </table>
